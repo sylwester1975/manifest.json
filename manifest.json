@@ -1,4 +1,4 @@
-  {
+
   "name": "Gospodarka Zoptymalizowana",
   "short_name": "Gospodarka Zoptymalizowana",
   "description": "Model gospodarczy oparty na potencjale nauki",
@@ -26,6 +26,26 @@
       "src": "https://raw.githubusercontent.com/sylwester1975/gz-512-png/ab6015cb04b5f9b1da336d36e9e76a12ea523c30/512x512%20favicon.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%2016x16%20favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%2032x32%20favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%2048x48%20favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%20128x128%20favicon.ico",
+      "sizes": "128x128",
+      "type": "image/x-icon"
     }
   ]
 }
