@@ -28,12 +28,12 @@
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%2016x16%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/str-gz-16x16-favicon/main/gz%2016x16%20favicon.ico",
       "sizes": "16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%2032x32%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/str-gz-32x32-favicon-nowy/main/gz%2032x32%20favicon.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
     },
