@@ -1,4 +1,4 @@
-
+{
   "name": "Gospodarka Zoptymalizowana",
   "short_name": "Gospodarka Zoptymalizowana",
   "description": "Model gospodarczy oparty na potencjale nauki",
@@ -28,24 +28,44 @@
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/str-gz-16x16-favicon/main/gz%2016x16%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/str-gz-16x16-favicon/main/gz%2016x16%20favicon.png",
       "sizes": "16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/str-gz-32x32-favicon-nowy/main/gz%2032x32%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/str-gz-32x32-favicon-nowy/main/gz%2032x32%20favicon.png",
       "sizes": "32x32",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%2048x48%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%2048x48%20favicon.png",
       "sizes": "48x48",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%20128x128%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-folder-ico/main/gz%20128x128%20favicon.png",
       "sizes": "128x128",
       "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favicony-png/d3beb636660ac440e054022d6a58a18c3fc9187d/gz%2016x16%20favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favicony-png/d3beb636660ac440e054022d6a58a18c3fc9187d/gz%2032x32%20faon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favicony-png/d3beb636660ac440e054022d6a58a18c3fc9187d/gz%2048x48%20favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favicony-png/d3beb636660ac440e054022d6a58a18c3fc9187d/gz%20128x128%20favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
     }
   ]
 }
