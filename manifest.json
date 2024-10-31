@@ -8,16 +8,6 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20512px%20x%20512px%20svg.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20192px%20x%20192px%20svg.svg",
-      "sizes": "192x192",
-      "type": "image/svg+xml"
-    },
-    {
       "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%2016px%20x%2016px%20png.png",
       "sizes": "16x16",
       "type": "image/png"
@@ -33,28 +23,8 @@
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%2064px%20x%2064px%20png.png",
-      "sizes": "64x64",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%2096px%20x%2096px%20png.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20128px%20x%20128px%20png.png",
-      "sizes": "128x128",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20192px%20x192px%20png.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20192px%20x%20192px%20png.png",
       "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20256px%20x256px%20png.png",
-      "sizes": "256x256",
       "type": "image/png"
     },
     {
@@ -63,44 +33,34 @@
       "type": "image/png"
     },
     {
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20512px%20x%20512px%20svg.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
       "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%2016px%20x%2016px%20ico.ico",
       "sizes": "16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%2032px%20x%2032px%20ico.ico",
-      "sizes": "32x32",
-      "type": "image/x-icon"
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%2076px%20x%2076px%20png.png",
+      "sizes": "76x76",
+      "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%2048px%20x%2048px%20ico.ico",
-      "sizes": "48x48",
-      "type": "image/x-icon"
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20120px%20x%20120px%20png.png",
+      "sizes": "120x120",
+      "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%2064px%20x%2064px%20ico.ico",
-      "sizes": "64x64",
-      "type": "image/x-icon"
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20152px%20x%20152px%20png.png",
+      "sizes": "152x152",
+      "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%2096px%20x%2096px%20ico.ico",
-      "sizes": "96x96",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20128px%20x%20128px%20ico.ico",
-      "sizes": "128x128",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20192px%20x192px%20ico.ico",
-      "sizes": "192x192",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20256px%20x256px%20ico.ico",
-      "sizes": "256x256",
-      "type": "image/x-icon"
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20180px%20x%20180px%20png.png",
+      "sizes": "180x180",
+      "type": "image/png"
     }
   ]
 }
