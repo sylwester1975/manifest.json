@@ -48,12 +48,12 @@
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20120px%20x%20120px%20png.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20120px%20x%20120%20png.png",
       "sizes": "120x120",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20152px%20x%20152px%20png.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20152px%20152px%20png.png",
       "sizes": "152x152",
       "type": "image/png"
     },
@@ -62,5 +62,9 @@
       "sizes": "180x180",
       "type": "image/png"
     }
-  ]
+  ],
+  "msapplication": {
+    "TileColor": "#ffffff",
+    "TileImage": "https://raw.githubusercontent.com/sylwester1975/gz-favikony-na-stron-/1c6c32cd81cde8c68a89053593ef3a7035cf6d53/gz%20512px%20x%20512px%20svg.svg?raw=true"
+  }
 }
